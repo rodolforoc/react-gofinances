@@ -8,6 +8,15 @@ Aplicação Web feita em [ReactJS](https://reactjs.org/) junto com [TypeScript](
 - [Axios](https://github.com/axios/axios)
 - [Jest](https://jestjs.io/)
 
+### Interface
+
+<p align="center">
+  <img src = "https://github.com/rodolforoc/react-gofinances/blob/master/src/assets/gofinances1.PNG" width="700">
+</p>
+<p align="center">
+  <img src = "https://github.com/rodolforoc/react-gofinances/blob/master/src/assets/gofinances2.PNG" width="700">
+</p>
+
 ### Funcionalidades da aplicação
 
 - **`Listar as transações da sua API`**: A página `Dashboard` exibe uma listagem, com o campo `title`, `value`, `type` e `category` de todas as transações que estão cadastradas na sua API.
